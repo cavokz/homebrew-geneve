@@ -5,8 +5,8 @@ class Geneve < Formula
   homepage "https://github.com/elastic/geneve"
   license "Apache-2.0"
 
-  url "https://github.com/elastic/geneve/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "023a134a4a9e0e3363a00630015d456019c295cfed5b48e3e9de81b870c9087f"
+  url "https://github.com/elastic/geneve/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "f8abdd0460e4bef15784853187d19958b3a53ba45f637d308f699412c39b1bf9"
 
   depends_on "go"
   depends_on "pkg-config"
